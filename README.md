@@ -1,5 +1,5 @@
 # paris-apart-market-study
-Project of scraping and analyzing rental prices of Parisian apartments.
+Project of scraping, analyzing and predicting prices of rent for Parisian apartments. Python, Tableau, ML
 
  [Youtube presentation](https://www.youtube.com/watch?v=HKuhMtrEgDE)
 
