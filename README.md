@@ -1,6 +1,8 @@
 # paris-apart-market-study
 Project of scraping and analyzing rental prices of Parisian apartments.
 
+ [Youtube presentation](https://www.youtube.com/watch?v=HKuhMtrEgDE)
+
 # What's in it:
 - 2 webscrapers in .ipynb, one for pap.fr and one for seloger.fr
 - databases of scraped apartments listings in .csv as for 21/10/20 (final base has ~2700 listings for Paris)
